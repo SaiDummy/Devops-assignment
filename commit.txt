@@ -1,6 +1,7 @@
 Devops Assignment-1
 
 Hi, I am Saichandra N, studying Mtech from Bits Wilp. currently in 3rd semester. This is regarding devops assignment -1, doing in Git for editing/ creating files.
+editing for commit changes
 
 Thank you,
 Saichandra
